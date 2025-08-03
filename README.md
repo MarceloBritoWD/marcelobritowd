@@ -6,4 +6,4 @@ My main technology stack includes Angular, React, Next.js, Node.js, Spring Boot,
 
 I am passionate about developing scalable and maintainable applications. I also enjoy mentoring developers and contributing to products that deliver real value and impact to thousands of users.
 
-See my experience on LinkedIn @ [https://www.linkedin.com/in/marcelobritowd/](https://www.linkedin.com/in/marcelobritowd/)
+See my experience on LinkedIn @ [linkedin/marcelobritowd](https://www.linkedin.com/in/marcelobritowd/)
